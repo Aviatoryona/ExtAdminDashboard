@@ -1,0 +1,1192 @@
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/pages/FAQ.scss:70 */
+.faq-left-sidebar .faq-tips-list li.pointone:before {
+    color: #56b650;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/pages/FAQ.scss:74 */
+.faq-left-sidebar .faq-tips-list li.pointtwo:before {
+    color: #ffc037;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/pages/FAQ.scss:78 */
+.faq-left-sidebar .faq-tips-list li.pointthree:before {
+    color: #e55149;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/pages/FAQ.scss:82 */
+.faq-left-sidebar .faq-tips-list li.pointfour:before {
+    color: #a97fe3;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/pages/FAQ.scss:88 */
+.faq-left-sidebar .borderCls {
+    border-bottom: 1px solid #ddd;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/pages/FAQ.scss:93 */
+.FAQPanel .x-title-text-default {
+    font-size: 16px;
+    font-weight: normal;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/pages/FAQ.scss:10 */
+.pages-faq-container .x-header.x-panel-header-light {
+    border-bottom: 1px solid #ddd !important;
+    padding: 15px 16px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/pages/FAQ.scss:14 */
+.pages-faq-container .x-header.x-panel-header-light .x-panel-header-title-light {
+    color: #404040;
+    font-size: 14px;
+    font-family: "Open Sans";
+    font-weight: Bold;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/pages/FAQ.scss:22 */
+.pages-faq-container .x-header .x-fa {
+    line-height: 16px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/pages/FAQ.scss:26 */
+.pages-faq-container .x-header .x-tool-after-title .x-tool-img {
+    display: none;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/pages/FAQ.scss:31 */
+.pages-faq-container .x-accordion-body {
+    padding-left: 34px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/pages/FAQ.scss:35 */
+.pages-faq-container .round-btn {
+    background-color: #35baf6;
+    border-color: #35baf6 !important;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/Application.scss:5 */
+.pages-faq-container .round-btn .x-btn-inner-default-toolbar-small {
+    color: #fff;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/Application.scss:9 */
+.pages-faq-container .round-btn:hover {
+    background-color: transparent;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/Application.scss:12 */
+.pages-faq-container .round-btn:hover .x-btn-inner-default-toolbar-small,
+.pages-faq-container .round-btn:hover .x-btn-inner-default-small {
+    color: #35baf6;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/Application.scss:17 */
+.pages-faq-container .round-btn:hover .x-btn-icon-el-default-small,
+.pages-faq-container .round-btn:hover .x-btn-icon-el-default-toolbar-small {
+    color: #35baf6;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/pages/FAQ.scss:40 */
+.pages-faq-container .x-accordion-hd .x-title-icon {
+    color: #404040 !important;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/pages/FAQ.scss:44 */
+.pages-faq-container .x-accordion-hd.x-collapsed .x-title-icon:before {
+    content: "\f0da" !important;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/pages/FAQ.scss:51 */
+.faq-left-sidebar .x-fa {
+    font-size: 16px;
+    margin-right: 10px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/pages/FAQ.scss:56 */
+.faq-left-sidebar .faq-tips-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/pages/FAQ.scss:61 */
+.faq-left-sidebar .faq-tips-list li {
+    margin: 15px 0;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/pages/FAQ.scss:64 */
+.faq-left-sidebar .faq-tips-list li:before {
+    font-family: 'Font Awesome 5 Free';
+    content: "\f111";
+    padding-right: 10px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/pages/FAQ.scss:70 */
+.faq-left-sidebar .faq-tips-list li.pointone:before {
+    color: #56b650;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/pages/FAQ.scss:74 */
+.faq-left-sidebar .faq-tips-list li.pointtwo:before {
+    color: #ffc037;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/pages/FAQ.scss:78 */
+.faq-left-sidebar .faq-tips-list li.pointthree:before {
+    color: #e55149;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/pages/FAQ.scss:82 */
+.faq-left-sidebar .faq-tips-list li.pointfour:before {
+    color: #a97fe3;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/pages/FAQ.scss:88 */
+.faq-left-sidebar .borderCls {
+    border-bottom: 1px solid #ddd;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/pages/FAQ.scss:93 */
+.FAQPanel .x-title-text-default {
+    font-size: 16px;
+    font-weight: normal;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:2 */
+.userProfile-container .userProfilePic {
+    border: 4px solid #ddd;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    border-radius: 50%;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:7 */
+.userProfile-container .userProfileName {
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 30px;
+    color: #404040;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:14 */
+.userProfile-container .userProfileDesc {
+    color: #404040;
+    line-height: 16px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:21 */
+.userProfile-container .user-profile-desc .x-box-item:before,
+.userProfile-container .user-profile-desc .x-layout-box-item:before {
+    color: #35baf6;
+    margin-right: 12px;
+    font-size: 18px;
+    position: relative;
+    top: 2px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:30 */
+.userProfile-container .user-profile-desc a {
+    color: #404040;
+    text-decoration: none;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:35 */
+.userProfile-container .user-profile-desc .box {
+    margin-left: 40px;
+    line-height: 14px;
+    font-size: 14px;
+    line-height: 18px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:41 */
+.userProfile-container .user-profile-desc .box:before {
+    margin-left: -20px;
+    color: #35baf6;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:47 */
+.userProfile-container .user-profile-desc .x-toolbar {
+    border: none;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:52 */
+.userProfile-container .about-me-wrap {
+    border-top: 1px solid #ddd;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:55 */
+.userProfile-container .about-me-wrap h3 {
+    margin: 0;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 14px 0 10px 0;
+    display: block;
+    margin-left: 20px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:63 */
+.userProfile-container .about-me-wrap h3:before {
+    font-size: 18px;
+    font-weight: normal;
+    color: #35baf6;
+    margin-right: 12px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:71 */
+.userProfile-container .about-me-wrap p {
+    margin: 0;
+    padding: 0 20px 20px 26px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:77 */
+.userProfile-container .likes-friends-wrap {
+    text-align: center;
+    border-top: 1px solid #ddd;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:81 */
+.userProfile-container .likes-friends-wrap .x-panel {
+    margin-top: 12px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:85 */
+.userProfile-container .likes-friends-wrap .friends-count-wrap {
+    border-left: 1px solid #ddd;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:91 */
+.userProfile-container .large-icon:before {
+    color: #35baf6;
+    font-size: 35px !important;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:98 */
+.userProfile-container .icon-padding:before {
+    padding: 16px;
+    color: #35baf6;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:104 */
+.userProfile-container .tall-separator {
+    height: 48px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:108 */
+.userProfile-container .fa-ellipsis-v {
+    font-size: 20px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:112 */
+.userProfile-container .likes-value,
+.userProfile-container .friends-value {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: normal;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:119 */
+.userProfile-container .comments {
+    margin-bottom: 10px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:123 */
+.userProfile-container .comments img.profile-icon {
+    height: 50px;
+    width: 50px;
+    border: 2px solid #ddd;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    border-radius: 50%;
+    float: left;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:132 */
+.userProfile-container .comments h4 {
+    font-size: 14px;
+    margin: 0 10px 12px 0;
+    float: left;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:137 */
+.userProfile-container .comments h4 span {
+    margin-left: 8px;
+    font-size: 18px;
+    position: relative;
+    top: 2px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:145 */
+.userProfile-container .comments .from-now {
+    float: right;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:148 */
+.userProfile-container .comments .from-now span {
+    margin-right: 5px;
+    font-size: 16px;
+    position: relative;
+    top: 1px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:156 */
+.userProfile-container .comments .content-wrap {
+    margin-left: 65px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:159 */
+.userProfile-container .comments .content-wrap .content {
+    margin-bottom: 15px;
+    white-space: normal;
+    clear: both;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:166 */
+.userProfile-container .comments.sub-comments {
+    margin: 0 0 10px 60px;
+    border-bottom: 1px solid #ddd;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:170 */
+.userProfile-container .comments.sub-comments .like-comment-btn-wrap {
+    border-bottom: none;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:176 */
+.userProfile-container .like-comment-btn-wrap {
+    text-align: right;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #ddd;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:181 */
+.userProfile-container .like-comment-btn-wrap button {
+    margin-left: 15px;
+    padding: 0;
+    height: 30px;
+    width: 30px;
+    background-color: #f4f4f4;
+    font-size: 14px;
+    color: #404040;
+    border: none;
+    cursor: pointer;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:194 */
+.userProfile-container .x-grid-item,
+.userProfile-container .x-grid-item-over {
+    background: #fff;
+    border: 0;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:199 */
+.userProfile-container .x-grid-item:last-child {
+    border-bottom: none;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:202 */
+.userProfile-container .x-grid-item:last-child .like-comment-btn-wrap {
+    border-bottom: none;
+    padding-bottom: 0;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:207 */
+.userProfile-container .x-grid-item:last-child .comments {
+    margin-bottom: 0;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:212 */
+.userProfile-container .x-grid-cell-inner {
+    padding: 0;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:217 */
+.userProfile-container .timeline-item .line-wrap {
+    position: relative;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:220 */
+.userProfile-container .timeline-item .line-wrap:before {
+    content: "";
+    position: absolute;
+    width: 50px;
+    height: 100%;
+    border-right: solid 2px #35baf6;
+    left: 0;
+    top: 70px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:231 */
+.userProfile-container .timeline-item .profile-pic-wrap {
+    width: 100px;
+    float: left;
+    font-size: 10px;
+    text-align: center;
+    position: relative;
+    background: #fff;
+    padding: 5px 0;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:240 */
+.userProfile-container .timeline-item .profile-pic-wrap img {
+    height: 46px;
+    width: 46px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    border-radius: 50%;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:247 */
+.userProfile-container .timeline-item .contents-wrap {
+    margin: 0 0px 15px 110px;
+    border: 1px solid #ddd;
+    position: relative;
+    padding: 15px;
+    white-space: normal;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:254 */
+.userProfile-container .timeline-item .contents-wrap:before,
+.userProfile-container .timeline-item .contents-wrap:after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 0;
+    height: 0;
+    left: 0;
+    top: 0;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:264 */
+.userProfile-container .timeline-item .contents-wrap:before {
+    border-top: 9px solid transparent;
+    border-bottom: 9px solid transparent;
+    border-right: 9px solid #ddd;
+    margin: 15px 0 0 -9px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:271 */
+.userProfile-container .timeline-item .contents-wrap:after {
+    border-top: 9px solid transparent;
+    border-bottom: 9px solid transparent;
+    border-right: 9px solid #fff;
+    margin: 15px 0 0 -8px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:278 */
+.userProfile-container .timeline-item .contents-wrap .shared-by,
+.userProfile-container .timeline-item .contents-wrap .followed-by {
+    font-size: 12px;
+    line-height: 18px;
+    margin-bottom: 10px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:283 */
+.userProfile-container .timeline-item .contents-wrap .shared-by a,
+.userProfile-container .timeline-item .contents-wrap .followed-by a {
+    color: #35baf6;
+    text-decoration: none;
+    font-weight: bold;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:290 */
+.userProfile-container .timeline-item .contents-wrap .shared-img {
+    width: 100%;
+    display: block;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:295 */
+.userProfile-container .timeline-item .contents-wrap .job-meeting a {
+    color: #35baf6;
+    text-decoration: none;
+    font-weight: bold;
+    margin-bottom: 10px;
+    display: block;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:304 */
+.userProfile-container .timeline-item .article-comment {
+    border-left: 5px solid #ddd;
+    padding: 10px 20px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:308 */
+.userProfile-container .timeline-item .article-comment span {
+    margin-right: 10px;
+    color: #eee;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:315 */
+.userProfile-container .timeline-item .followed-by img {
+    height: 32px;
+    width: 32px;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    border-radius: 50%;
+    margin-right: 5px;
+    float: left;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:323 */
+.userProfile-container .timeline-item .followed-by .followed-by-inner {
+    margin-left: 40px;
+    padding: 5px 0;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:331 */
+.profiledescription-social-toolbar {
+    border-top: 1px solid #ddd !important;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:334 */
+@media (max-width: 450px) {
+    /* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:336 */
+    .userProfile-container .comments h4,
+    .userProfile-container .comments .from-now {
+        float: none;
+    }
+    /* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:340 */
+    .userProfile-container .comments .from-now {
+        margin-bottom: 10px;
+    }
+    /* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:343 */
+    .userProfile-container .comments h4 {
+        margin: 0;
+    }
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:349 */
+@media (max-width: 350px) {
+    /* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:350 */
+    .timeline-items-wrap {
+        display: none;
+    }
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:355 */
+@media (max-width: 420px) {
+    /* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:356 */
+    .profiledescription-social-toolbar {
+        display: none !important;
+    }
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:362 */
+.user-notifications,
+.timeline-items-wrap {
+    padding: 15px;
+    background: #fff;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:368 */
+.timeline-epoch {
+    width: 100px;
+    background: #fff;
+    text-align: center;
+    padding: 7px 5px;
+    position: relative;
+    margin-bottom: 15px;
+    color: #35baf6;
+    font-size: 14px;
+    border: solid 3px #35baf6;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    -ms-border-radius: 3px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:383 */
+.timeline-item-last .line-wrap:before {
+    display: none;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:389 */
+@media (max-width: 320px) {
+    /* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:391 */
+    .phone .user-profile-desc {
+        height: 380px !important;
+    }
+    /* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:396 */
+    .phone .userProfile-container .icon-padding:before {
+        padding: 16px 8px;
+    }
+    /* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/profile/UserProfileBase.scss:402 */
+    .phone .userProfile-container .timeline-items-wrap .x-dataview-item .timeline-item:before {
+        height: 540px;
+    }
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/search/Results.scss:2 */
+.allRecordsCls .x-grid-cell-inner {
+    padding: 15px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/search/Results.scss:5 */
+.allRecordsCls .x-grid-cell-inner div {
+    white-space: normal;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/search/Results.scss:9 */
+.allRecordsCls .x-grid-cell-inner .resultsTitleCls {
+    font-size: 14px;
+    color: #333;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/search/Results.scss:14 */
+.allRecordsCls .x-grid-cell-inner .resultsUrlCls a {
+    color: #35baf6;
+    text-decoration: none;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/search/Results.scss:18 */
+.allRecordsCls .x-grid-cell-inner .resultsUrlCls a:hover {
+    text-decoration: underline;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/search/Results.scss:23 */
+.allRecordsCls .x-grid-cell-inner .imageRowCls img {
+    margin-right: 15px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/search/Results.scss:30 */
+.user-grid .x-grid-td {
+    vertical-align: middle;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/search/Results.scss:33 */
+.user-grid .x-grid-td img {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    border-radius: 50%;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/search/Results.scss:38 */
+.user-grid .x-grid-body {
+    border-width: 1px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/search/Results.scss:42 */
+.x-action-col-icon {
+    font-size: 13px !important;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/search/Results.scss:2 */
+.allRecordsCls .x-grid-cell-inner {
+    padding: 15px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/search/Results.scss:5 */
+.allRecordsCls .x-grid-cell-inner div {
+    white-space: normal;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/search/Results.scss:9 */
+.allRecordsCls .x-grid-cell-inner .resultsTitleCls {
+    font-size: 14px;
+    color: #333;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/search/Results.scss:14 */
+.allRecordsCls .x-grid-cell-inner .resultsUrlCls a {
+    color: #35baf6;
+    text-decoration: none;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/search/Results.scss:18 */
+.allRecordsCls .x-grid-cell-inner .resultsUrlCls a:hover {
+    text-decoration: underline;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/search/Results.scss:23 */
+.allRecordsCls .x-grid-cell-inner .imageRowCls img {
+    margin-right: 15px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/search/Results.scss:30 */
+.user-grid .x-grid-td {
+    vertical-align: middle;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/search/Results.scss:33 */
+.user-grid .x-grid-td img {
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    border-radius: 50%;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/search/Results.scss:38 */
+.user-grid .x-grid-body {
+    border-width: 1px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/search/Results.scss:42 */
+.x-action-col-icon {
+    font-size: 13px !important;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:14 */
+.widget-top-first-container {
+    background-color: #468fd3;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:18 */
+.widget-bottom-first-container {
+    background-color: #fff;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:22 */
+.postion-class {
+    position: relative;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:26 */
+.widget-name-text {
+    font-family: "Open Sans";
+    font-weight: Bold;
+    font-size: 16px;
+    line-height: 16px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:34 */
+.widget-tool-button .widget-follow-button,
+.widget-tool-button .widget-follow-button .x-frame-mc {
+    background-color: #82c748;
+    border-color: #82c748 !important;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/Application.scss:5 */
+.widget-tool-button .widget-follow-button .x-btn-inner-default-toolbar-small,
+.widget-tool-button .widget-follow-button .x-frame-mc .x-btn-inner-default-toolbar-small {
+    color: #fff;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/Application.scss:9 */
+.widget-tool-button .widget-follow-button:hover,
+.widget-tool-button .widget-follow-button .x-frame-mc:hover {
+    background-color: transparent;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/Application.scss:12 */
+.widget-tool-button .widget-follow-button:hover .x-btn-inner-default-toolbar-small,
+.widget-tool-button .widget-follow-button:hover .x-btn-inner-default-small,
+.widget-tool-button .widget-follow-button .x-frame-mc:hover .x-btn-inner-default-toolbar-small,
+.widget-tool-button .widget-follow-button .x-frame-mc:hover .x-btn-inner-default-small {
+    color: #82c748;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/Application.scss:17 */
+.widget-tool-button .widget-follow-button:hover .x-btn-icon-el-default-small,
+.widget-tool-button .widget-follow-button:hover .x-btn-icon-el-default-toolbar-small,
+.widget-tool-button .widget-follow-button .x-frame-mc:hover .x-btn-icon-el-default-small,
+.widget-tool-button .widget-follow-button .x-frame-mc:hover .x-btn-icon-el-default-toolbar-small {
+    color: #82c748;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:39 */
+.widget-tool-button .widget-message-button,
+.widget-tool-button .widget-message-button .x-frame-mc {
+    background-color: #35baf6;
+    border-color: #35baf6 !important;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/Application.scss:5 */
+.widget-tool-button .widget-message-button .x-btn-inner-default-toolbar-small,
+.widget-tool-button .widget-message-button .x-frame-mc .x-btn-inner-default-toolbar-small {
+    color: #fff;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/Application.scss:9 */
+.widget-tool-button .widget-message-button:hover,
+.widget-tool-button .widget-message-button .x-frame-mc:hover {
+    background-color: transparent;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/Application.scss:12 */
+.widget-tool-button .widget-message-button:hover .x-btn-inner-default-toolbar-small,
+.widget-tool-button .widget-message-button:hover .x-btn-inner-default-small,
+.widget-tool-button .widget-message-button .x-frame-mc:hover .x-btn-inner-default-toolbar-small,
+.widget-tool-button .widget-message-button .x-frame-mc:hover .x-btn-inner-default-small {
+    color: #35baf6;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/Application.scss:17 */
+.widget-tool-button .widget-message-button:hover .x-btn-icon-el-default-small,
+.widget-tool-button .widget-message-button:hover .x-btn-icon-el-default-toolbar-small,
+.widget-tool-button .widget-message-button .x-frame-mc:hover .x-btn-icon-el-default-small,
+.widget-tool-button .widget-message-button .x-frame-mc:hover .x-btn-icon-el-default-toolbar-small {
+    color: #35baf6;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:44 */
+.widget-tool-button .x-btn-inner-default-toolbar-small {
+    color: #fff;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:49 */
+.widget-top-container-first-img {
+    position: absolute;
+    z-index: 200;
+    margin-top: 94px;
+    border: 3px solid #fff;
+    -webkit-border-radius: 36px;
+    -moz-border-radius: 36px;
+    -ms-border-radius: 36px;
+    border-radius: 36px;
+    left: 50%;
+    margin-left: -33px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:59 */
+.widget-top-second-container {
+    background-color: #8dc153;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:63 */
+.widget-top-first-third-container {
+    background-color: #607d8b;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:67 */
+.widget-top-first-fourth-container {
+    background: url('images/img2.jpg');
+    background-size: 100% auto;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:72 */
+.widget-top-second-panel .x-fa {
+    color: #fff;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:76 */
+.widget-follower-toolbar {
+    background-color: #fafafa;
+    font-size: 12px;
+    padding: 0;
+    text-align: center;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:84 */
+.widget-follower-toolbar .x-form-display-field {
+    font-size: 13px;
+    color: #333;
+    font-family: "Open Sans";
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:90 */
+.widget-follower-toolbar .x-form-display-field .label {
+    color: #404040;
+    font-size: 12px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:95 */
+.widget-follower-toolbar .widget-follower-tool-label {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:101 */
+.info-card-item {
+    text-align: center;
+    background: #fff;
+    padding: 45px 10px !important;
+    font-size: 24px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:108 */
+.info-card-item.info-card-large-wrap h2 {
+    font-size: 48px;
+    line-height: 48px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:113 */
+.info-card-item.info-card-large-wrap span.x-fa {
+    height: 75px;
+    width: 75px;
+    border-radius: 38px;
+    color: #fff;
+    font-size: 30px;
+    line-height: 75px;
+    margin: 15px 0;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:122 */
+.info-card-item.info-card-large-wrap span.x-fa.fa-shopping-cart {
+    background-color: #458fd2;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:126 */
+.info-card-item.info-card-large-wrap span.x-fa.fa-envelope {
+    background-color: #4caf50;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:130 */
+.info-card-item.info-card-large-wrap span.x-fa.fa-code {
+    background-color: #9c27b0;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:134 */
+.info-card-item.info-card-large-wrap span.x-fa.fa-file-alt {
+    background-color: #e91e63;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:139 */
+.info-card-item.info-card-large-wrap .infodiv {
+    font-size: 14px;
+    line-height: 16px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:145 */
+.info-card-item.cornflower-blue:before {
+    background: #458fd2;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:149 */
+.info-card-item.green:before {
+    background: #4caf50;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:153 */
+.info-card-item.magenta:before {
+    background: #9c27b0;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:157 */
+.info-card-item.pink:before {
+    background: #e91e63;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:161 */
+.info-card-item.orange:before {
+    background: #ffc107;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:165 */
+.info-card-item.blue:before {
+    background: #673ab7;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:169 */
+.info-card-item h2 {
+    font-size: 30px;
+    font-weight: normal;
+    margin: 0;
+    margin: 0;
+    line-height: 32px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:177 */
+.info-card-item div {
+    line-height: 24px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:181 */
+.info-card-item span {
+    font-size: 24px;
+    line-height: 24px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/view/widgets/Widgets.scss:187 */
+.info-card-item:before {
+    width: 100%;
+    position: absolute;
+    height: 3px;
+    content: "";
+    top: 0;
+    left: 0;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:14 */
+.widget-top-first-container {
+    background-color: #468fd3;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:18 */
+.widget-bottom-first-container {
+    background-color: #fff;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:22 */
+.postion-class {
+    position: relative;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:26 */
+.widget-name-text {
+    font-family: "Open Sans";
+    font-weight: Bold;
+    font-size: 16px;
+    line-height: 16px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:34 */
+.widget-tool-button .widget-follow-button,
+.widget-tool-button .widget-follow-button .x-frame-mc {
+    background-color: #82c748;
+    border-color: #82c748 !important;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/Application.scss:5 */
+.widget-tool-button .widget-follow-button .x-btn-inner-default-toolbar-small,
+.widget-tool-button .widget-follow-button .x-frame-mc .x-btn-inner-default-toolbar-small {
+    color: #fff;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/Application.scss:9 */
+.widget-tool-button .widget-follow-button:hover,
+.widget-tool-button .widget-follow-button .x-frame-mc:hover {
+    background-color: transparent;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/Application.scss:12 */
+.widget-tool-button .widget-follow-button:hover .x-btn-inner-default-toolbar-small,
+.widget-tool-button .widget-follow-button:hover .x-btn-inner-default-small,
+.widget-tool-button .widget-follow-button .x-frame-mc:hover .x-btn-inner-default-toolbar-small,
+.widget-tool-button .widget-follow-button .x-frame-mc:hover .x-btn-inner-default-small {
+    color: #82c748;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/Application.scss:17 */
+.widget-tool-button .widget-follow-button:hover .x-btn-icon-el-default-small,
+.widget-tool-button .widget-follow-button:hover .x-btn-icon-el-default-toolbar-small,
+.widget-tool-button .widget-follow-button .x-frame-mc:hover .x-btn-icon-el-default-small,
+.widget-tool-button .widget-follow-button .x-frame-mc:hover .x-btn-icon-el-default-toolbar-small {
+    color: #82c748;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:39 */
+.widget-tool-button .widget-message-button,
+.widget-tool-button .widget-message-button .x-frame-mc {
+    background-color: #35baf6;
+    border-color: #35baf6 !important;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/Application.scss:5 */
+.widget-tool-button .widget-message-button .x-btn-inner-default-toolbar-small,
+.widget-tool-button .widget-message-button .x-frame-mc .x-btn-inner-default-toolbar-small {
+    color: #fff;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/Application.scss:9 */
+.widget-tool-button .widget-message-button:hover,
+.widget-tool-button .widget-message-button .x-frame-mc:hover {
+    background-color: transparent;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/Application.scss:12 */
+.widget-tool-button .widget-message-button:hover .x-btn-inner-default-toolbar-small,
+.widget-tool-button .widget-message-button:hover .x-btn-inner-default-small,
+.widget-tool-button .widget-message-button .x-frame-mc:hover .x-btn-inner-default-toolbar-small,
+.widget-tool-button .widget-message-button .x-frame-mc:hover .x-btn-inner-default-small {
+    color: #35baf6;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/Application.scss:17 */
+.widget-tool-button .widget-message-button:hover .x-btn-icon-el-default-small,
+.widget-tool-button .widget-message-button:hover .x-btn-icon-el-default-toolbar-small,
+.widget-tool-button .widget-message-button .x-frame-mc:hover .x-btn-icon-el-default-small,
+.widget-tool-button .widget-message-button .x-frame-mc:hover .x-btn-icon-el-default-toolbar-small {
+    color: #35baf6;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:44 */
+.widget-tool-button .x-btn-inner-default-toolbar-small {
+    color: #fff;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:49 */
+.widget-top-container-first-img {
+    position: absolute;
+    z-index: 200;
+    margin-top: 94px;
+    border: 3px solid #fff;
+    -webkit-border-radius: 36px;
+    -moz-border-radius: 36px;
+    -ms-border-radius: 36px;
+    border-radius: 36px;
+    left: 50%;
+    margin-left: -33px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:59 */
+.widget-top-second-container {
+    background-color: #8dc153;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:63 */
+.widget-top-first-third-container {
+    background-color: #607d8b;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:67 */
+.widget-top-first-fourth-container {
+    background: url('images/img2.jpg');
+    background-size: 100% auto;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:72 */
+.widget-top-second-panel .x-fa {
+    color: #fff;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:76 */
+.widget-follower-toolbar {
+    background-color: #fafafa;
+    font-size: 12px;
+    padding: 0;
+    text-align: center;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:84 */
+.widget-follower-toolbar .x-form-display-field {
+    font-size: 13px;
+    color: #333;
+    font-family: "Open Sans";
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:90 */
+.widget-follower-toolbar .x-form-display-field .label {
+    color: #404040;
+    font-size: 12px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:95 */
+.widget-follower-toolbar .widget-follower-tool-label {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:101 */
+.info-card-item {
+    text-align: center;
+    background: #fff;
+    padding: 45px 10px !important;
+    font-size: 24px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:108 */
+.info-card-item.info-card-large-wrap h2 {
+    font-size: 48px;
+    line-height: 48px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:113 */
+.info-card-item.info-card-large-wrap span.x-fa {
+    height: 75px;
+    width: 75px;
+    border-radius: 38px;
+    color: #fff;
+    font-size: 30px;
+    line-height: 75px;
+    margin: 15px 0;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:122 */
+.info-card-item.info-card-large-wrap span.x-fa.fa-shopping-cart {
+    background-color: #458fd2;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:126 */
+.info-card-item.info-card-large-wrap span.x-fa.fa-envelope {
+    background-color: #4caf50;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:130 */
+.info-card-item.info-card-large-wrap span.x-fa.fa-code {
+    background-color: #9c27b0;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:134 */
+.info-card-item.info-card-large-wrap span.x-fa.fa-file-alt {
+    background-color: #e91e63;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:139 */
+.info-card-item.info-card-large-wrap .infodiv {
+    font-size: 14px;
+    line-height: 16px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:145 */
+.info-card-item.cornflower-blue:before {
+    background: #458fd2;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:149 */
+.info-card-item.green:before {
+    background: #4caf50;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:153 */
+.info-card-item.magenta:before {
+    background: #9c27b0;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:157 */
+.info-card-item.pink:before {
+    background: #e91e63;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:161 */
+.info-card-item.orange:before {
+    background: #ffc107;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:165 */
+.info-card-item.blue:before {
+    background: #673ab7;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:169 */
+.info-card-item h2 {
+    font-size: 30px;
+    font-weight: normal;
+    margin: 0;
+    margin: 0;
+    line-height: 32px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:177 */
+.info-card-item div {
+    line-height: 24px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:181 */
+.info-card-item span {
+    font-size: 24px;
+    line-height: 24px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/app/view/widgets/Widgets.scss:187 */
+.info-card-item:before {
+    width: 100%;
+    position: absolute;
+    height: 3px;
+    content: "";
+    top: 0;
+    left: 0;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/Application.scss:39 */
+.x-menu-header {
+    z-index: 0 !important;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/Application.scss:43 */
+.x-css-shadow {
+    box-shadow: none !important;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/Application.scss:51 */
+.x-fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 'Open Sans', 'Helvetica Neue', helvetica, arial, verdana, sans-serif;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/Application.scss:56 */
+.alignRight {
+    float: right;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/classic/src/Application.scss:60 */
+.boldFont {
+    font-weight: bold;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/sass/src/view/main/Main.scss:1 */
+.nav-tree-badge:after {
+    position: absolute;
+    height: 18px;
+    width: 3.3em;
+    display: inline-block;
+    text-align: center;
+    top: 50%;
+    margin-top: -9px;
+    right: 12px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 18px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/sass/src/view/main/Main.scss:16 */
+.nav-tree-badge-hot:after {
+    content: "HOT";
+    background-color: #e3495a;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/sass/src/view/main/Main.scss:21 */
+.nav-tree-badge-new:after {
+    content: "NEW";
+    background-color: #2eadf5;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/sass/src/view/main/Main.scss:30 */
+.circular {
+    border-radius: 50%;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/sass/src/view/main/Main.scss:35 */
+.x-fab.fa-google-plus {
+    min-width: 16px;
+    width: auto;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/sass/src/Application.scss:3 */
+body.x-ios.x-webview.x-portrait {
+    margin-top: 20px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/sass/src/view/main/Main.scss:1 */
+.nav-tree-badge:after {
+    position: absolute;
+    height: 18px;
+    width: 3.3em;
+    display: inline-block;
+    text-align: center;
+    top: 50%;
+    margin-top: -9px;
+    right: 12px;
+    color: #fff;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 18px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/sass/src/view/main/Main.scss:16 */
+.nav-tree-badge-hot:after {
+    content: "HOT";
+    background-color: #e3495a;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/sass/src/view/main/Main.scss:21 */
+.nav-tree-badge-new:after {
+    content: "NEW";
+    background-color: #2eadf5;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/sass/src/view/main/Main.scss:30 */
+.circular {
+    border-radius: 50%;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/sass/src/view/main/Main.scss:35 */
+.x-fab.fa-google-plus {
+    min-width: 16px;
+    width: auto;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/sass/src/view/search/Results.scss:1 */
+.search-result-attachment {
+    width: 160px;
+    height: 100px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/sass/src/view/search/Results.scss:1 */
+.search-result-attachment {
+    width: 160px;
+    height: 100px;
+}
+/* /home/Aviator/Documents/TestingFolder/MiddleWare/sass/src/Application.scss:3 */
+body.x-ios.x-webview.x-portrait {
+    margin-top: 20px;
+}
